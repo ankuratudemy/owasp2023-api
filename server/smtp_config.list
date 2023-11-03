@@ -1,0 +1,4 @@
+smtp_username=ajayisteaching@gmail.com
+smtp_password=A752E1FD947D59295BA72C0A6558BF026278
+smtp_provider=smtp.elasticemail.com
+smtp_port=2525
