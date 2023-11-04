@@ -6,8 +6,7 @@ const Home = () => {
     return (
         <React.Fragment>
             <main role="main" className="container starter-template">
-            <img src={logo} alt="" /><hr/>
-            <img src={logo2} alt="" />
+            OWASP 2023 API Security Vulnerabilities
             </main>
         </React.Fragment>
   );

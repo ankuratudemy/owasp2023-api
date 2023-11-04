@@ -8,9 +8,9 @@ const NavBar = ({user}) => {
   const role = auth.getUser() && auth.getUser().role;
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark navbar-inverse">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-inverse">
       <Link className="navbar-brand" to="/home">
-        <img src={brand} width="50px"/>
+        {/* <img src={brand} width="50px"/> */}
       </Link>
       <button
         className="navbar-toggler"
