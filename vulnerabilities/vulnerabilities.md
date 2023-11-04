@@ -43,7 +43,7 @@
 
 The API Does not properly validate and sanitize data gathered from other APIs. The API sends the following request to store email in a third-party API.
 
-- POST https://my-json-server.typicode.com/bnematzadeh/third-party-api/users
+- POST https://my-json-server.typicode.com/ankuratudemy/third-party-api/users
 
 - Navigate to /about. Add your XSS payload in email and subscribe. The subscribed email will be returned from the third-party API to the application.
 
