@@ -55,9 +55,5 @@ Make sure you have already installed Node and MongoDB on your system.
 - API8:2023 - Security Misconfiguration
 - API9:2023 - Improper Inventory Management
 - API10:2023 - Unsafe Consumption of APIs
-- Bonus
-  - Injection
-  - Web Cache Deception
-  - Weak Implementation of Reset Password (Account Takeover)
 
 # owasp2023-api
